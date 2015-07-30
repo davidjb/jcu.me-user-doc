@@ -30,28 +30,13 @@ def setup(app):
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 metadata = {
     'project': {
-        'name': u'eResearch Web Services',
-        'shortname': 'eResearchWebServicesUserDocumentation',
+        'name': u'Research Portfolio',
+        'shortname': 'ResearchPortfolioUserDocumentation',
         'team': u'eResearch Centre, James Cook University',
-        'url': 'https://eresearch.jcu.edu.au',
-        'server-scheme': 'https',
-        'server-host': 'eresearch.jcu.edu.au',
-        'server-port': 443,
-        'auth': ['jcu-ldap'],
-        'security': 'mixed'
+        'url': 'https://jcu.me'
     }
 }
 current_year = datetime.datetime.now().year
-
-# Add these tags via command line generation
-# These must conform to Python variable standards or errors will occur!
-tags.add('forms')
-tags.add('folder_sorting')
-tags.add('files_images_have_state')
-tags.add('user_portlet_management')
-tags.add('group_management')
-#tags.add('bootstrap_theme')
-tags.add('admin')
 
 
 # Add any Sphinx extension module names here, as strings. They can be extensions

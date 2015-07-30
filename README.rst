@@ -1,9 +1,9 @@
 User documentation
 ==================
 
-End-user documentation for eResearch Centre systems powered by Plone.
+End-user documentation for the Research Portfolio.
 
-Documentation is available at http://eresearch.rtfd.org, produced after each
+Documentation is available at http://jcu-me.rtfd.org, produced after each
 push to this repository.
 
 About this documentation
@@ -24,7 +24,7 @@ Install
 
 To install all dependencies and then build the actual documentation, do
 the following::
-  
+
     python boostrap.py
     ./bin/buildout
     ./bin/sphinxbuilder
@@ -33,5 +33,5 @@ To re-build the documentation, just run::
 
     ./bin/sphinxbuilder
 
-The final path of the rendered documentation is described in the console 
+The final path of the rendered documentation is described in the console
 output.

@@ -18,13 +18,6 @@ overview, and information about site management.
    :maxdepth: 2
 
    introduction
-   getting-started
-   content-creation
-   content-management
-   content-special
-   layout-and-customisation
-   interacting
-   faq
    glossary
 
 
