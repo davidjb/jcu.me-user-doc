@@ -25,7 +25,9 @@ Install
 To install all dependencies and then build the actual documentation, do
 the following::
 
-    python boostrap.py
+    virtualenv . -p /usr/bin/python3
+    source ./bin/activate
+    python bootstrap-buildout.py
     ./bin/buildout
     ./bin/sphinxbuilder
 
