@@ -1,0 +1,52 @@
+Getting started
+===============
+
+Let's take a look through how to get started with the Research Portfolio.  
+
+Getting a profile
+-----------------
+
+.. _active-researchers:
+
+Profiles are automatically created for *active researchers* at the University.
+An active researcher is defined as someone who is the following:
+
+* A current member of staff;
+* Is not a casual staff member;
+* Holds a position that is classified as academic (AC) or research (RS),
+  except general research staff (award type of RESG); and
+* Has at least one visible publication in the JCU publication repository,
+  `ResearchOnline@JCU`_.
+
+Adjuncts
+~~~~~~~~
+
+For researchers that hold adjunct positions, a profile is
+created for those that:
+
+* Have at least one visible publication in the JCU publication repository,
+  `ResearchOnline@JCU`_; and
+* Are part of a current grant, or currently supervising a HDR student.
+
+This profile is *initially hidden*, so in order to be seen publicly you will
+need to :ref:`edit your profile <edit-profile>`.
+
+Special situtations
+~~~~~~~~~~~~~~~~~~~
+
+Profiles are also created for research managers (such as College Deans,
+Pro-Vice Chancellors and Academic Deans of Research) and Emeritus Professors,
+provided one visible publication is stored in `ResearchOnline@JCU`_.
+
+Don't have a profile?
+~~~~~~~~~~~~~~~~~~~~~
+
+If your profile doesn't appear to be present, check through each of the points
+above. For a profile to appear, all information in the respective central
+database or system must be correct and up-to-date. Refer to
+:ref:`data-sources` for more information.
+
+Logging in
+----------
+
+.. _ResearchOnline@JCU: https://researchonline.jcu.edu.au

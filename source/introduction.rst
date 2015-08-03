@@ -1,5 +1,5 @@
 Introduction to the |project-name|
-**********************************
+==================================
 
 TODO:  Screenshot and images
 

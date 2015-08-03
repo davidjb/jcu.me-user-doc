@@ -6,18 +6,20 @@
    :align: right
 
 
-|project-name| User Guide
-=========================
+|project-name| Owner's Guide
+****************************
 
-This documentation covers the most important aspects to |project-name|
-(|project-url|), including an introduction to content managment, a layout
-overview, and information about site management. 
-
+This documentation covers all aspects of the |project-name|
+(|project-url|), including:
 
 .. toctree::
    :maxdepth: 2
 
    introduction
+   features
+   getting-a-profile
+   editing
+   data-sources
    glossary
 
 
