@@ -45,6 +45,7 @@ Got feedback?
 If you've got feedback about the Research Portfolio or this documentation,
 please get in touch by contacting the `IT Helpdesk`_ and we'll get back to you
 as soon as possible.  Even if you're not a JCU staff member or researcher, you
-can still send an email to the `IT Helpdesk`_ to send you feedback.
+can still send an email to the `IT Helpdesk`_ to send your feedback or
+suggestions.
 
 .. _IT Helpdesk: http://www.jcu.edu.au/helpdesk

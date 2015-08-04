@@ -29,7 +29,7 @@ Individuals can edit their own profiles online, and anyone who holds the
 Research Portfolio Officer organisational role may edit profiles within their
 College or Discipline. To determine who may edit profiles in your department,
 see `role emails
-<https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=ResearchPortfolioOfficer>`_.
+<https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=ResearchPortfolioOfficer>`__.
 
 
 Editor's view
@@ -92,7 +92,7 @@ To update your existing photo or change the initial generic photo:
 #. When done, click the ``Crop`` button at the bottom of the page.  If you
    make a mistake, you can click ``Revert to original`` to go back to the
    original image.
-#. Close the popup window to see the results.
+#. Close the pop-up window to see the results.
 
 
 .. _profile-settings:
@@ -175,7 +175,7 @@ enter and save an identifier, the corresponding icon will appear on the
 When adding a new identifier, the grey highlighted section of the example
 (sometimes the example is the entire entry) shows the part of the URL or
 identifier required. You can use the ``Test`` button to confirm your profile
-loads in the popup window that appears.
+loads in the pop-up window that appears.
 
 If you're editing your profile for the first time, you'll likely find some of
 these identifiers have been added automatically.
@@ -234,7 +234,7 @@ following James Cook University systems:
 
 * Human Resources Information Management System (HRIMS)
 * Research Information Management System (RIMS)
-* JCU Publication Repository (ResearchOnline\@JCU)
+* Publication Repository (ResearchOnline\@JCU)
 * Student Information System (Student One)
 * Research Data Catalogue (ReDBox)
 * Teaching Responsibilities Database (TRDB)
@@ -375,7 +375,10 @@ Teaching Responsibilities Database (TRDB)
    responsibilities for the current year. Subjects with the word Honours in
    the title are excluded.
 
-For changes, contact the Teaching Role Administrator for your College or Division. To identify who to contact, use the `role emails <https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=TeachingRolesAdmin>`_ page.
+For changes, contact the Teaching Role Administrator for your College or
+Division. To identify who to contact, use the `role emails
+<https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=TeachingRolesAdmin>`__
+page.
 
 
 .. _IT Helpdesk: http://www.jcu.edu.au/helpdesk

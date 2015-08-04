@@ -9,8 +9,8 @@
 |project-name| Owner's Guide
 ****************************
 
-This documentation covers all aspects of the |project-name|
-(|project-url|), including:
+This documentation covers all aspects of the |project-name| (|project-url|),
+including:
 
 .. toctree::
    :maxdepth: 2

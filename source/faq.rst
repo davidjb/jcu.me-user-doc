@@ -43,7 +43,7 @@ What happens if some of my publications are not public access?
 The publication page from ResearchOnline@JCU is displayed when the publication
 title link is clicked. This page shows that it is Repository staff only and
 shows the ``Request a copy`` button. Once selected, the user is directed to a
-form to request accesss to the publication.
+form to request access to the publication.
 
 I collaborate with a lot of institutions and people; why isn't my tab/map displayed?
 ------------------------------------------------------------------------------------
@@ -57,7 +57,7 @@ Why are no names of students listed under my Supervision section?
 The University's interpretation of the `Queensland Right to Information Act
 2009`_ and the `Queensland Information Privacy Act 2009`_ is to ensure the
 privacy of our students. Hence, student details may only be used if their
-consent has been provided. Refer to the University’s `Information Privacy
+consent has been provided. Refer to the University's `Information Privacy
 Policy`_ for further clarification.
 
 Staff details are made accessible via the public JCU website, because they are
