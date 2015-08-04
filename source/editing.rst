@@ -22,6 +22,15 @@ In general, there are two key types of information on the |project-name|:
   You'll need to contact the :ref:`relevant department
   <institutional-information>` to update this data. 
 
+Who can edit profiles?
+----------------------
+
+Individuals can edit their own profiles online, and anyone who holds the
+Research Portfolio Officer organisational role may edit profiles within their
+College or Discipline. To determine who may edit profiles in your department,
+see `role emails
+<https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=ResearchPortfolioOfficer>`_.
+
 
 Editor's view
 -------------
@@ -225,7 +234,7 @@ following James Cook University systems:
 
 * Human Resources Information Management System (HRIMS)
 * Research Information Management System (RIMS)
-* JCU Publication Repository (ResearchOnline@JCU)
+* JCU Publication Repository (ResearchOnline\@JCU)
 * Student Information System (Student One)
 * Research Data Catalogue (ReDBox)
 * Teaching Responsibilities Database (TRDB)
@@ -284,7 +293,7 @@ Telephone Switchboard
 For changes, contact the `JCU Switchboard`_.
 
 Research Information Management System (RIMS; Research Services)
-----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * FOR codes
 * SEO codes
@@ -307,15 +316,15 @@ Research Information Management System (RIMS; Research Services)
      Canada. Collaborations are per institution.
 
    Codes, keywords and collaborations are based on data entered into
-   ResearchOnline@JCU for outputs and into the RIMS Grants database for
+   ResearchOnline\@JCU for outputs and into the RIMS Grants database for
    inputs over the last 5 years.  Submitting publications and grants will
    automatically update the codes, keywords and collaborations displayed.
 
 For changes to listed funding details, contact the `IT Helpdesk`_ and request
 the job be assigned to the Research Information team within Research Services.
 
-ResearchOnline@JCU (JCU Library)
---------------------------------
+ResearchOnline\@JCU (JCU Library)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Publications
 
@@ -327,10 +336,10 @@ ResearchOnline@JCU (JCU Library)
 To submit publications, go to `ResearchOnline@JCU`_. For importing your past
 outputs via ResearcherID and for changes to existing publications, output
 references, `contact <http://researchonline.jcu.edu.au/contact.html>`_ the
-ResearchOnline@JCU team.
+ResearchOnline\@JCU team.
 
 Student Management System, StudentOne (GRS)
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Supervision records
 
@@ -338,12 +347,12 @@ Student Management System, StudentOne (GRS)
 
    Supervision activities marked as currently active or completed within the
    last five years. For completed students, the thesis title will link to
-   their ResearchOnline@JCU publication.
+   their ResearchOnline\@JCU publication.
 
 For changes, contact the `Graduate Research School`_.
 
 ReDBox (Research Data Catalogue)
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Dataset records
 
@@ -356,7 +365,7 @@ application. For more information, contact the `IT Helpdesk`_ and request the
 job be assigned to the Research Data team within the eResearch Centre.
 
 Teaching Responsibilities Database (TRDB)
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Teaching commitments
 
@@ -366,7 +375,7 @@ Teaching Responsibilities Database (TRDB)
    responsibilities for the current year. Subjects with the word Honours in
    the title are excluded.
 
-For changes, contact the Teaching Role Administrator for your College or Division. To identify who to contact, use `StaffOnline <https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=TeachingRolesAdmin>`_.
+For changes, contact the Teaching Role Administrator for your College or Division. To identify who to contact, use the `role emails <https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=TeachingRolesAdmin>`_ page.
 
 
 .. _IT Helpdesk: http://www.jcu.edu.au/helpdesk
