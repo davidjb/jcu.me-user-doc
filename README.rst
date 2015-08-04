@@ -37,3 +37,8 @@ To re-build the documentation, just run::
 
 The final path of the rendered documentation is described in the console
 output.
+
+Features
+--------
+
+* Flexible images for HTML and LaTeX (PDF) output (``.. image:: ``)

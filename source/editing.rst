@@ -35,7 +35,8 @@ see `role emails
 Editor's view
 -------------
 
-TODO: screenshot
+.. image:: ./images/editors-view.png
+   :width: 50%
 
 If you're logged in and viewing your own profile or a profile that you can
 otherwise edit, you'll notice the page will show all potential data tabs and a
@@ -46,18 +47,23 @@ be included and how to update details or who to contact.
 Viewing your updated profile
 ----------------------------
 
-If you've just updated settings or information on your profile, you'll want to
-see how it looks to the world.
-
 .. note::
 
    If your profile is hidden, it will not be listed anywhere on the site.
    Anyone without edit access will not be able to see or access your profile.
 
+If you've just updated settings or information on your profile, you'll want to
+see how it looks to the world.
+
+.. image:: ./images/public-view.png
+   :align: right
+
 #. If still editing your profile, click the ``Cancel editing`` button on the
    *Edit profile* page.
+
 #. Click the ``Public view`` button to toggle how your profile appears. Any
    empty tabs or sections will disappear.
+
 #. Click the ``Public view`` button again to toggle the page back again.
 
 
@@ -81,17 +87,30 @@ Adding or changing photos
    University style guide sets out that our imagery is full colour, bright and
    high in contrast with saturated colours, so select an image like this.
 
+.. image:: ./images/photo.png
+   :align: right
+
 To update your existing photo or change the initial generic photo:
 
+
 #. Login and access your profile page.
+
 #. Click the default photo on the profile page.  You'll notice an ``Edit
    Photo`` label appear when doing this.
+
 #. Use the pop-up window that appears to manage your photo.
+
 #. Choose a photo to upload, and click the ``Upload`` button.
+
 #. Click and drag on the photo that is displayed to crop to suitable size.
+
+   .. image:: ./images/photo-cropping.png
+      :width: 40%
+
 #. When done, click the ``Crop`` button at the bottom of the page.  If you
    make a mistake, you can click ``Revert to original`` to go back to the
    original image.
+
 #. Close the pop-up window to see the results.
 
 
@@ -132,7 +151,9 @@ Hide Altmetric badges
 Biography
 ~~~~~~~~~
 
-TODO screenshot
+.. image:: ./images/biography.png
+   :width: 50%
+   :align: right
 
 Your self-authored description of yourself, your research and other relevant
 details. The editor allows you to format text in multiple ways, insert
@@ -152,7 +173,8 @@ is the world's view to you and your research.
 Experience
 ~~~~~~~~~~
 
-TODO screenshot
+.. image:: ./images/experience.png
+   :width: 50%
 
 Describe positions and experience relevant to your work by adding them, one at
 a time.  For a current position, leave the ``End Year`` field empty.
@@ -163,7 +185,9 @@ a time.  For a current position, leave the ``End Year`` field empty.
 External identifiers
 ~~~~~~~~~~~~~~~~~~~~
 
-TODO screenshot
+.. image:: ./images/external-identifers.png
+   :width: 50%
+   :align: right
 
 These are links to your website, web pages or profiles on systems external to
 the University that help to bridge your digital identity. These can be
@@ -186,7 +210,8 @@ these identifiers have been added automatically.
 Honours
 ~~~~~~~
 
-TODO Screenshots
+.. image:: ./images/honours.png
+   :width: 50%
 
 Highlight fellowships, memberships and awards that you've received or are associated with by adding *Honours* to your profile.
 
@@ -196,7 +221,8 @@ Highlight fellowships, memberships and awards that you've received or are associ
 Interests
 ~~~~~~~~~
 
-TODO Screenshots
+.. image:: ./images/honours.png
+   :width: 50%
 
 Describe topics you are interested in within a research, teaching or
 professional capacity. All information is searchable across the site, and can
@@ -208,7 +234,7 @@ improve your discoverability.
 Locations
 ~~~~~~~~~
 
-TODO Screenshots
+.. image:: ./images/locations.png
 
 Add rooms or lab locations to your profile. Adding a location automatically
 links to interactive maps to display your building.
@@ -218,8 +244,8 @@ links to interactive maps to display your building.
 
 An auto-completion list will be displayed when entering a building number.
 Use this to select your room from the menu. You can add a second room, such
-as if you have an office on a different campus or lab in a different area.  
- 
+as if you have an office on a different campus or lab in a different area.
+
 .. note:: Locations are shown in the order you list them when displayed on
    a profile page.
 

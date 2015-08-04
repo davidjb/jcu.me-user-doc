@@ -9,6 +9,9 @@
 |project-name| Owner's Guide
 ****************************
 
+.. image:: images/collage.jpg
+   :width: 400px
+
 This documentation covers all aspects of the |project-name| (|project-url|),
 including:
 

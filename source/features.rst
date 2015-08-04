@@ -1,20 +1,15 @@
 Features
 ========
 
+This is an explanation of the different features available on the
+|project-name|.  If you don't feel like reading, just go exploring at
+https://jcu.me!
+
 What's new?
 -----------
 
 See the `Features <https://jcu.me/features>`_ page for the latest updates and
 changes.
-
-Centres, Institutes and Colleges
---------------------------------
-
-TODO Screenshot
-
-These links at the top of every page access listings of the James Cook
-University Centres, Institutions, Collages and their respective members.  These
-pages are automatically updated from the relevant data stores. 
 
 Short web address (URL)
 -----------------------
@@ -22,13 +17,14 @@ Short web address (URL)
 It's easy to remember: `jcu.me`_!
 
 Anything you type after ``jcu.me`` automatically points visitors at
-``https://research.jcu.edu.au/portfolio``, the full site URL:
+``https://research.jcu.edu.au/portfolio``, being the full site URL.  So, the
+following are possible:
 
 * `jcu.me/collaboration <https://jcu.me/collaboration>`_ links to the
   worldwide collaboration map
 * `jcu.me/search/turtle <https://jcu.me/search/turtle>`_ links to the
   search for turtles
-* and any other page works in the same way!
+* ...and any other page works in the same way!
 
 This means that individual profiles get a `jcu.me`_ address. For example,
 Professor Ian Atkinson can be found at `https://jcu.me/ian.atkinson
@@ -41,7 +37,9 @@ signature.
 Full-text search
 ----------------
 
-TODO Screenshot
+.. image:: ./images/search.png
+   :width: 50%
+   :alt: Search interface
 
 This feature executes an intelligent search on research disciplines,
 socio-economic objectives, keywords, campus, names, biography or interests,
@@ -62,18 +60,30 @@ for registered advisors.
 Interactive data
 ----------------
 
-TODO Screenshot
+.. image:: ./images/collaboration-map.jpg
+   :width: 50%
 
 The |project-name| features interactive collaboration maps which show links
 across the world (built from publication and grant listings).  Maps can show
 collaborations for a specific Division or College, or a Research Centre or
 Institute.
 
-TODO Screenshot
+.. image:: ./images/word-cloud.jpg
+   :width: 50%
 
 The word clouds linked from the `jcu.me`_ homepage show different aspects of
 data, including fields of expertise for the University and research keywords
 that highlight the areas of excellence for the University's research.
+
+Centres, Institutes and Colleges
+--------------------------------
+
+.. image:: images/college-listing.png
+   :width: 50%
+
+There are links at the top of every page that access listings of the James
+Cook University Centres, Institutions, Collages and their respective members.
+These pages are automatically updated from the relevant data stores.
 
 Profile pages
 -------------
@@ -81,11 +91,17 @@ Profile pages
 Dynamic data
 ~~~~~~~~~~~~
 
-Read more about the :ref:`data-sources`.
+We automatically pull and aggregate information for many different data
+sources across the University for simple display in one place.
+
+Read more about the :ref:`institutional-information`.
 
 
 Researcher-contributed details
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Researchers can also self-contribute many different pieces of information
+about themselves to enhance their Research Portfolio page.
 
 For details on how to update information, see
 :ref:`self-contributed-information`.
@@ -93,7 +109,7 @@ For details on how to update information, see
 Similar to me
 ~~~~~~~~~~~~~
 
-TODO Screenshot
+.. image:: ./images/similar-to-me.png
 
 Each profile will show a *Similar to me* panel which helps visitors build
 connections between researchers.  These associations are built using all
