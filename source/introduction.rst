@@ -36,10 +36,15 @@ including:
 * Data description and management
 * Technical details of operation for Research Portfolio Officers
 
-This aims to serve as a reference for Research Portfolio officers wihen they
+This aims to serve as a reference for Research Portfolio officers when they
 are updating profile pages for researchers in their division or college.
 
-If you've got feedback about this documentation, please `get in touch`_ and let
-us know.
+Got feedback?
+-------------
 
-.. _get in touch: https://jcu.me/contact-us
+If you've got feedback about the Research Portfolio or this documentation,
+please get in touch by contacting the `IT Helpdesk`_ and we'll get back to you
+as soon as possible.  Even if you're not a JCU staff member or researcher, you
+can still send an email to the `IT Helpdesk`_ to send you feedback.
+
+.. _IT Helpdesk: http://www.jcu.edu.au/helpdesk

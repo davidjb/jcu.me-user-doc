@@ -19,8 +19,7 @@ This documentation covers all aspects of the |project-name|
    features
    getting-a-profile
    editing
-   data-sources
-   glossary
+   faq
 
 
 Indices and tables

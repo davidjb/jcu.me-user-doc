@@ -27,7 +27,8 @@ created for those that:
 
 * Have at least one visible publication in the JCU publication repository,
   `ResearchOnline@JCU`_; and
-* Are part of a current grant, or currently supervising a HDR student.
+* Are part of a current grant, or currently supervising a :abbr:`HDR (Higher
+  Degree Research)` student.
 
 This profile is *initially hidden*, so in order to be seen publicly you will
 need to :ref:`edit your profile <edit-profile>`.
@@ -39,15 +40,15 @@ Profiles are also created for research managers (such as College Deans,
 Pro-Vice Chancellors and Academic Deans of Research) and Emeritus Professors,
 provided one visible publication is stored in `ResearchOnline@JCU`_.
 
+.. _no-profile:
+
 Can't see your profile?
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 If your profile doesn't appear to be present, check through each of the points
 above. For a profile to appear, all information in the respective central
-database or system must be correct and up-to-date.  Any recent changes will be
-pushed to the |project-name| on the weekend following their update, so new
-profiles are available on the coming Monday.
-
-Refer to :ref:`data-sources` for more information.
+database or system must be correct and up-to-date. Once data has been updated
+in the relevant central system, updates occur :ref:`perodically
+<recent-changes>`.
 
 .. _ResearchOnline@JCU: https://researchonline.jcu.edu.au
