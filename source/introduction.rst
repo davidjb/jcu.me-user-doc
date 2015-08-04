@@ -3,11 +3,12 @@ Introduction to the |project-name|
 
 TODO:  Screenshot and images
 
-The JCU Research Portfolio is the flagship web application which promotes and
-facilitates research activities within James Cook University.  Each
-:ref:`active researcher <active-researcher>` in the University has a profile
-within the Research Portfolio, displayed alongside tools for exploring the
-University's research efforts.
+**The Research Portfolio is the flagship web application which promotes and
+facilitates research activities within James Cook University.**
+
+Each :ref:`active researcher <active-researcher>` in the University has a
+profile within the Research Portfolio, displayed alongside tools for exploring
+the University's research efforts.
 
 Each researcher profile contains information taken from many different
 existing sources, along with additional information provided by each
