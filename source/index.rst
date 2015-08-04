@@ -1,6 +1,6 @@
 .. _plone-index:
 
-.. image:: images/logo.png
+.. image:: images/logo.*
    :alt: |project-name| logo
    :width: 200px
    :align: right
