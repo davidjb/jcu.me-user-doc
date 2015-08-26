@@ -16,7 +16,7 @@ An active researcher is defined as someone who is the following:
 * Has at least one visible (non-thesis) publication in the JCU publication repository,
   `ResearchOnline@JCU`_.
   
-  * *Note: A thesis is unpublished work and will not be included in the set of publications shown.*
+  * *Note: A thesis is an unpublished work and will not be included in the set of publications shown.*
 
 If you need to deposit publications into `ResearchOnline@JCU`_, you, or
 someone on your behalf, can do so online.
