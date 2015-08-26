@@ -13,8 +13,10 @@ An active researcher is defined as someone who is the following:
 * Is not a casual staff member;
 * Holds a position that is classified as academic (AC) or research (RS),
   except general research staff (award type of RESG); and
-* Has at least one visible publication in the JCU publication repository,
+* Has at least one visible (non-thesis) publication in the JCU publication repository,
   `ResearchOnline@JCU`_.
+  
+  * *Note: A thesis is unpublished work and will not be included in the set of publications shown.
 
 If you need to deposit publications into `ResearchOnline@JCU`_, you, or
 someone on your behalf, can do so online.
@@ -25,7 +27,7 @@ Adjuncts
 For researchers that hold adjunct positions, a profile is
 created for those that:
 
-* Have at least one visible publication in the JCU publication repository,
+* Have at least one visible (non-thesis) publication in the JCU publication repository,
   `ResearchOnline@JCU`_; and
 * Are part of a current grant, or currently supervising a :abbr:`HDR (Higher
   Degree Research)` student.
