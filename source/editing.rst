@@ -397,8 +397,8 @@ Teaching Responsibilities Database (TRDB)
 
 .. note::
 
-   Displays the subjects for which the researcher has Lecturer
-   responsibilities for the current year. Subjects with the word Honours in
+   Displays only those subjects for which the researcher has **Lecturer**
+   responsibilities in the current year. Subjects with the word **Honours** in
    the title are excluded.
 
 For changes, contact the Teaching Role Administrator for your College or
