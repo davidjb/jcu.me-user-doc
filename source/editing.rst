@@ -357,12 +357,31 @@ ResearchOnline\@JCU (JCU Library)
 .. note::
 
    Publications are grouped by type, and the 12 most recent publications are
-   shown.  HERDC eligible outputs are favoured over others.
+   shown.  HERDC eligible outputs are favoured over others, even if they are
+   older.  As such, if you have more than 12 recent publications, it is likely
+   some more recent publications may not be shown.  A visitor to a
+   |project-name| page can always load the full list of publications by
+   following the relevant link
 
 To submit publications, go to `ResearchOnline@JCU`_. For importing your past
 outputs via ResearcherID and for changes to existing publications, output
 references, `contact <http://researchonline.jcu.edu.au/contact.html>`_ the
 ResearchOnline\@JCU team.
+
+The following summarises the types of publications that are considered
+HERC-eligible:
+
+=======================    ========================================   ========
+Publication Type           Description                                Category
+=======================    ========================================   ========
+Book                       Authored - research                        A1
+Book Chapter               Chapter in A1 book                         B1
+Journal Article            Refereed article in a scholarly journal    C1
+Conference Publication     Full written paper - refereed              E1
+=======================    ========================================   ========
+
+If there is a discrepancy, contact `ResearchOnline@JCU`_ staff to have the
+publication checked.
 
 Student Management System, StudentOne (GRS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
