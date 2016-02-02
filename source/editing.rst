@@ -16,8 +16,7 @@ In general, there are two key types of information on the |project-name|:
 
 * **Institutional information**: data that other departments are
   responsible for managing, such as publications, research grants, and
-  personal information.  Updates will flow through to the Research Portfolio
-  automatically on a weekly basis.
+  personal information.  |weekly-update|
 
   You'll need to contact the :ref:`relevant department
   <institutional-information>` to update this data. 
@@ -298,6 +297,8 @@ example, a copy of your qualifications would be required to change your title.
 Your email address can be changed after a change of name is confirmed by Human
 Resources.
 
+|weekly-update|
+
 JCU Identity Management (ICT)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -308,6 +309,8 @@ in the HRIMS system. For example, if you require your preferred name to be
 used in your email address rather than your given name, then the preferred
 name must already be in your Human Resources record.
 
+|weekly-update|
+
 Telephone Switchboard
 ~~~~~~~~~~~~~~~~~~~~~
 
@@ -316,7 +319,7 @@ Telephone Switchboard
 .. note::
    Displayed in the *Connect with me* panel, if available.
 
-For changes, contact the `JCU Switchboard`_.
+For changes, contact the `JCU Switchboard`_. |weekly-update|
 
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -348,6 +351,7 @@ Research Information Management System (RIMS; Research Services)
 
 For changes to listed funding details, contact the `IT Helpdesk`_ and request
 the job be assigned to the Research Information team within Research Services.
+|weekly-update|
 
 ResearchOnline\@JCU (JCU Library)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -383,6 +387,8 @@ Conference Publication     Full written paper - refereed              E1
 If there is a discrepancy, contact `ResearchOnline@JCU`_ staff to have the
 publication checked.
 
+|weekly-update|
+
 Student Management System, StudentOne (GRS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -394,7 +400,7 @@ Student Management System, StudentOne (GRS)
    last five years. For completed students, the thesis title will link to
    their ResearchOnline\@JCU publication.
 
-For changes, contact the `Graduate Research School`_.
+For changes, contact the `Graduate Research School`_. |weekly-update|
 
 ReDBox (Research Data Catalogue)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -408,6 +414,8 @@ ReDBox (Research Data Catalogue)
 For updates or changes, manage this information directly through the `ReDBox`_
 application. For more information, contact the `IT Helpdesk`_ and request the
 job be assigned to the Research Data team within the eResearch Centre.
+
+|weekly-update|
 
 Teaching Responsibilities Database (TRDB)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -431,3 +439,5 @@ page.
 .. _ResearchOnline@JCU: https://researchonline.jcu.edu.au/
 .. _Graduate Research School: http://www.jcu.edu.au/grs
 .. _ReDBox: http://research.jcu.edu.au/researchdata/
+.. |weekly-update|: Updates will be reflected on Portfolio pages on the weekend 
+   following the change.
