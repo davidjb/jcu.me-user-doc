@@ -439,5 +439,4 @@ page.
 .. _ResearchOnline@JCU: https://researchonline.jcu.edu.au/
 .. _Graduate Research School: http://www.jcu.edu.au/grs
 .. _ReDBox: http://research.jcu.edu.au/researchdata/
-.. |weekly-update|: Updates will be reflected on Portfolio pages on the weekend 
-   following the change.
+.. |weekly-update| replace:: Updates will be reflected on Portfolio pages on the weekend following the change.
