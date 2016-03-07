@@ -220,7 +220,7 @@ Highlight fellowships, memberships and awards that you've received or are associ
 Interests
 ~~~~~~~~~
 
-.. image:: ./images/honours.png
+.. image:: ./images/interests.png
    :width: 50%
 
 Describe topics you are interested in within a research, teaching or
