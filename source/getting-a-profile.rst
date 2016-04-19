@@ -29,8 +29,8 @@ created for those that:
 
 * Have at least one visible (non-thesis) publication in the JCU publication repository,
   `ResearchOnline@JCU`_; and
-* Are part of a current grant, or currently supervising a :abbr:`HDR (Higher
-  Degree Research)` student.
+* Are a principle investigator of a current grant, or currently supervising a :abbr:`HDR (Higher
+  Degree Research)` student, or have at least 5 publications in the last 5 years where at least one paper is co-authored with a current (non-adjunct) JCU researcher.
 
 This profile is *initially hidden*, so in order to be seen publicly you will
 need to :ref:`edit your profile <edit-profile>`.
