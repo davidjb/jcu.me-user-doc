@@ -29,7 +29,7 @@ See :ref:`edit-profile`.
 
 .. _recent-changes:
 
-When to changes take effect?
+When do changes take effect?
 ----------------------------
 
 Any recent changes will be pushed to the |project-name| on the weekend
