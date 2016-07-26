@@ -35,7 +35,7 @@ When do changes take effect?
 Any recent changes will be pushed to the |project-name| on the weekend
 following their update, so new profiles are available on the coming Monday.
 
-Refer to :ref:`data-sources` for more information.
+Refer to :ref:`edit-profile` for more information on where data is sourced.
 
 What happens if some of my publications are not public access?
 --------------------------------------------------------------
