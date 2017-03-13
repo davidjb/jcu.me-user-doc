@@ -254,7 +254,7 @@ Updating institutional information
 ----------------------------------
 
 Beyond the self-contributed information mentioned :ref:`above
-<self-contributed-information`, the |project-name| uses information from the
+<self-contributed-information>`, the |project-name| uses information from the
 following James Cook University systems:
 
 * Human Resources Information Management System (HRIMS)
