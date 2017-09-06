@@ -238,8 +238,8 @@ Locations
 Add rooms or lab locations to your profile. Adding a location automatically
 links to interactive maps to display your building.
 
-.. note:: Room locations are only available for Townsville, Cairns, and
-   Singapore campuses.
+.. note:: Room locations are only available for Townsville and Cairns campuses
+          at present.
 
 An auto-completion list will be displayed when entering a building number.
 Use this to select your room from the menu. You can add a second room, such
