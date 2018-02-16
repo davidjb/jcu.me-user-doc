@@ -319,7 +319,9 @@ Telephone Switchboard
 .. note::
    Displayed in the *Connect with me* panel, if available.
 
-For changes, contact the `JCU Switchboard`_. |weekly-update|
+For changes, log an `IT Helpdesk`_ request asking for your staff contact list
+telephone number to be updated.  Alternatively, you can request changes be made
+by calling the `JCU Switchboard`_ directly. |weekly-update|
 
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
