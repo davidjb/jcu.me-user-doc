@@ -321,7 +321,9 @@ Telephone Switchboard
 
 For changes, log an `IT Helpdesk`_ request asking for your staff contact list
 telephone number to be updated.  Alternatively, you can request changes be made
-by calling the `JCU Switchboard`_ directly. |weekly-update|
+by calling the `JCU Switchboard`_ directly; hold the line until you reach
+a Switchboard operator and then ask them to update your staff contact list
+telephone number. |weekly-update|
 
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
