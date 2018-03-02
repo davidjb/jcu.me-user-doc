@@ -369,7 +369,7 @@ ResearchOnline\@JCU (JCU Library)
    older.  As such, if you have more than 12 recent publications, it is likely
    some more recent publications may not be shown.  A visitor to a
    |project-name| page can always load the full list of publications by
-   following the relevant link
+   following the relevant link.
 
 To submit publications, go to `ResearchOnline@JCU`_. For importing your past
 outputs via ResearcherID and for changes to existing publications, output
@@ -377,7 +377,7 @@ references, `contact <http://researchonline.jcu.edu.au/contact.html>`_ the
 ResearchOnline\@JCU team.
 
 The following summarises the types of publications that are considered
-HERC-eligible:
+HERDC-eligible and thus show on a Research Portfolio page:
 
 =======================    ========================================   ========
 Publication Type           Description                                Category
@@ -389,7 +389,8 @@ Conference Publication     Full written paper - refereed              E1
 =======================    ========================================   ========
 
 If there is a discrepancy, contact `ResearchOnline@JCU`_ staff to have the
-publication checked.
+publication checked.  If a publication type is not listed above, such as a
+thesis or technical document, then it won't be shown on the Research Portfolio.
 
 |weekly-update|
 
