@@ -1,5 +1,5 @@
-User documentation
-==================
+JCU Research Portfolio User documentation
+=========================================
 
 End-user documentation for the Research Portfolio.
 
