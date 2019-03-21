@@ -257,13 +257,14 @@ Beyond the self-contributed information mentioned :ref:`above
 <self-contributed-information>`, the |project-name| uses information from the
 following James Cook University systems:
 
-* Human Resources Information Management System (HRIMS)
-* Research Information Management System (RIMS)
-* Publication Repository (ResearchOnline\@JCU)
-* Student Information System (Student One)
-* Research Data Catalogue (ReDBox)
-* Teaching Responsibilities Database (TRDB)
-* Telephone Switchboard
+* :ref:`hrims`
+* :ref:`idm`
+* :ref:`switchboard`
+* :ref:`rims`
+* :ref:`researchonline`
+* :ref:`sms`
+* :ref:`researchdata`
+* :ref:`trdb`
 
 As the Research Portfolio is acts as a display of information from these other
 systems, the original department managing the data is responsible should it
@@ -276,14 +277,16 @@ need correction.  Any changes will automatically flow through to the
    criteria and notes listed to ensure that the data in question is indeed
    incorrect and not just excluded from display.
 
-HRIMS (Human Resources)
-~~~~~~~~~~~~~~~~~~~~~~~
+.. _hrims:
+
+Human Resources Information Management System (HRIMS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Title
 * Name
 * Position title
 * Organisational units
-* Campus
+* Campus (used only if the Telephone Switchboard hasn't recorded your campus)
 
 .. note::
    The basic information about each researcher displayed in the titles,
@@ -301,7 +304,13 @@ example, a copy of your qualifications would be required to change your title
 or an official document required to change your name.  Your email address
 can be changed after a change of name is firstly confirmed by Human Resources.
 
+Campus information is only used from Human Resources as a fallback if the
+:ref:`switchboard` has no location present.  Put simply, the easiest option
+to update your campus is to make requests to both HR and to the Switchboard.
+
 |weekly-update|
+
+.. _idm:
 
 JCU Identity Management (ICT)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -315,10 +324,13 @@ name must already be in your Human Resources record.
 
 |weekly-update|
 
-Telephone Switchboard
-~~~~~~~~~~~~~~~~~~~~~
+.. _switchboard:
+
+Telephone Switchboard (Operators Database)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Phone numbers
+* Campus (if empty, your campus is obtained from HR)
 
 .. note::
    Displayed in the *Connect with me* panel, if available.
@@ -327,7 +339,16 @@ For changes, log an `IT Helpdesk`_ request asking for your staff contact list
 telephone number to be updated.  Alternatively, you can request changes be made
 by calling the `JCU Switchboard`_ directly; hold the line until you reach
 a Switchboard operator and then ask them to update your staff contact list
-telephone number. |weekly-update|
+telephone number.
+
+Campus information from the Switchboard is used as the primary data source but
+the Research Portfolio will use data from Human Resources if no location is
+present here.  Put simply, the easiest option to update your campus is to make
+requests to both HR and to the Switchboard.
+
+|weekly-update|
+
+.. _rims:
 
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -360,6 +381,8 @@ Research Information Management System (RIMS; Research Services)
 For changes to listed funding details, contact the `IT Helpdesk`_ and request
 the job be assigned to the Research Information team within Research Services.
 |weekly-update|
+
+.. _researchonline:
 
 ResearchOnline\@JCU (JCU Library)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -398,6 +421,8 @@ thesis or technical document, then it won't be shown on the Research Portfolio.
 
 |weekly-update|
 
+.. _sms: 
+
 Student Management System, StudentOne (GRS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -411,8 +436,10 @@ Student Management System, StudentOne (GRS)
 
 For changes, contact the `Graduate Research School`_. |weekly-update|
 
-ReDBox (Research Data Catalogue)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _researchdata:
+
+Research Data Catalogue (ReDBox; Information Services)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Dataset records
 
@@ -422,12 +449,14 @@ ReDBox (Research Data Catalogue)
 
 For updates or changes, manage this information directly through the `ReDBox`_
 application. For more information, contact the `IT Helpdesk`_ and request the
-job be assigned to the Research Data team within the eResearch Centre.
+job be assigned to the Research Data team within Information Services.
 
 |weekly-update|
 
-Teaching Responsibilities Database (TRDB)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _trdb:
+
+Teaching Roles Database (TRDB)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Teaching commitments
 
