@@ -289,13 +289,17 @@ HRIMS (Human Resources)
    The basic information about each researcher displayed in the titles,
    headings and *Connect with me* panel.
 
-For changes, contact your College Manager or Supervisor - they will know the
-correct procedure to make the change or can contact Human Resources if
-required.  For the data items listed here to be corrected or changed,
+For changes, contact Human Resources by submitting a request through the
+`HR Service Catalog <https://jcueduau.service-now.com/lp/?id=sc_home>`_.
+From this landing page, click onto `HR Services` and follow the guide to
+submit the type of request that matches your change.  Most requests
+will either be `Employee Information Changes` or `General Enquiries`.
+
+For corrections or changes to the above-listed information,
 verification will be required, usually with supporting documentation.  For
-example, a copy of your qualifications would be required to change your title.
-Your email address can be changed after a change of name is confirmed by Human
-Resources.
+example, a copy of your qualifications would be required to change your title
+or an official document required to change your name.  Your email address
+can be changed after a change of name is firstly confirmed by Human Resources.
 
 |weekly-update|
 
