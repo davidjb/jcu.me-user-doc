@@ -353,12 +353,25 @@ requests to both HR and to the Switchboard.
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Preferred name (perferred form of first name)
 * FOR codes
 * SEO codes
 * Keywords
-* Collaborations
-* Funding details
+* Collaborations (co-investigators from funding and co-authors from research outputs) 
+* Funding details (all current grants and those that finished in the last 3 years)
 * Groups
+
+For changes to these details, contact the `IT Helpdesk`_ and request
+the job be assigned to the Research Information team within Research Services.
+|weekly-update|
+
+.. note::
+
+   *Preferred name* is initially set as your first name from HR but
+   remains separate such that a portfolio page can display a preferred
+   form for your first name.  For example, if your first name in HR is
+   `James` and you prefer to be called `Jim`, contact Research Information
+   to enact this change.
 
 .. note::
 
@@ -378,9 +391,7 @@ Research Information Management System (RIMS; Research Services)
    inputs over the last 5 years.  Submitting publications and grants will
    automatically update the codes, keywords and collaborations displayed.
 
-For changes to listed funding details, contact the `IT Helpdesk`_ and request
-the job be assigned to the Research Information team within Research Services.
-|weekly-update|
+
 
 .. _researchonline:
 
