@@ -353,7 +353,7 @@ requests to both HR and to the Switchboard.
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Preferred name (perferred form of first name)
+* Preferred name (preferred form of first name)
 * FOR codes
 * SEO codes
 * Keywords
