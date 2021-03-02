@@ -259,6 +259,7 @@ following James Cook University systems:
 
 * :ref:`hrims`
 * :ref:`idm`
+* :ref:`website`
 * :ref:`switchboard`
 * :ref:`rims`
 * :ref:`researchonline`
@@ -282,7 +283,7 @@ need correction.  Any changes will automatically flow through to the
 Human Resources Information Management System (HRIMS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Title
+* Title (except for the title of Distinguished Professor, which are managed in :ref:`rims`)
 * Name
 * Position title
 * Organisational units
@@ -310,6 +311,7 @@ to update your campus is to make requests to both HR and to the Switchboard.
 
 |weekly-update|
 
+
 .. _idm:
 
 JCU Identity Management (ICT)
@@ -323,6 +325,7 @@ used in your email address rather than your given name, then the preferred
 name must already be in your Human Resources record.
 
 |weekly-update|
+
 
 .. _switchboard:
 
@@ -353,6 +356,7 @@ requests to both HR and to the Switchboard.
 Research Information Management System (RIMS; Research Services)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Title (Distinguished Professor title only)
 * Preferred name (preferred form of first name)
 * FOR codes
 * SEO codes
@@ -390,8 +394,6 @@ the job be assigned to the Research Information team within Research Services.
    ResearchOnline\@JCU for outputs and into the RIMS Grants database for
    inputs over the last 5 years.  Submitting publications and grants will
    automatically update the codes, keywords and collaborations displayed.
-
-
 
 .. _researchonline:
 
