@@ -259,7 +259,6 @@ following James Cook University systems:
 
 * :ref:`hrims`
 * :ref:`idm`
-* :ref:`website`
 * :ref:`switchboard`
 * :ref:`rims`
 * :ref:`researchonline`
