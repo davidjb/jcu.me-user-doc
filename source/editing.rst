@@ -483,6 +483,20 @@ Division. To identify who to contact, use the `role emails
 <https://secure.jcu.edu.au/app/roleemails/index.cfm?showmember=TeachingRolesAdmin>`__
 page.
 
+Updating JCU search
+-------------------
+
+JCU Research Portfolio pages automatically appear as part of the JCU website's `search
+<https://www.jcu.edu.au/search>`_ results, displaying your name, photo and brief
+description when someone searches for a name or matching keywords.
+
+The JCU search index automatically crawls all Research Portfolio pages on a nightly basis,
+and the JCU search webpage will periodically update its cache of the search index.
+
+If search results for a Research Portfolio profile haven't updated after 48 hours, please
+log an `IT Helpdesk`_ job, mentioning that your request should be directed to JCU Marketing
+and include the search URL that you have been looking at, as well as the expected result.
+
 
 .. _IT Helpdesk: http://www.jcu.edu.au/helpdesk
 .. _JCU Switchboard: http://www.jcu.edu.au/contacts/campus/JCUPRD_053790.html
