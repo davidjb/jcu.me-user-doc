@@ -53,4 +53,12 @@ database or system must be correct and up-to-date. Once data has been updated
 in the relevant central system, updates occur :ref:`perodically
 <recent-changes>`.
 
+If, after checking all your data, you think you should have a profile but it's not there, please email research.portfolio@jcu.edu.au.
+
+Requesting a Profile
+--------------------
+
+In the case where you don't meet the criteria for a profile, you can apply for an exception to be made. You will need a letter of support from your College Dean or Director and articulate the benefit to your College/Directorate and the University that would come from you having a public profile.  Email your request to the Dean of Research and copy in research.information@jcu.edu.au. If the Dean of Research grants the exception, the Research Information team will ensure that your portfolio page is created on the next data update. 
+
 .. _ResearchOnline@JCU: https://researchonline.jcu.edu.au
+
